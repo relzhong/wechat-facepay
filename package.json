@@ -1,0 +1,24 @@
+{
+  "name": "wechat-facepay",
+  "version": "1.0.0",
+  "description": "wechat facepay windows sdk in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 50000"
+  },
+  "author": "relzhong",
+  "license": "ISC",
+  "dependencies": {
+    "callsite": "^1.0.0",
+    "ffi": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-egg": "^7.0.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-html": "^4.0.3",
+    "mocha": "^5.2.0",
+    "power-assert": "^1.5.0"
+  }
+}
